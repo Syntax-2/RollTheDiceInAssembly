@@ -28,7 +28,7 @@ Project was done in Multisim 12
 
 
 ## Conclusion
-- This program serves as an excellent starting point for understanding microcontroller operation. It demonstrates how to use a 7-segment display and control LEDs using the PIC16F84 microcontroller.
+This program serves as an excellent starting point for understanding microcontroller operation. It demonstrates how to use a 7-segment display and control LEDs using the PIC16F84 microcontroller.
 
 ## Code
 ```assembly
