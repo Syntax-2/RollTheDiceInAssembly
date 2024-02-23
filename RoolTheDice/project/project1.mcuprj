@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="ASCII"?>
+<MCUProject Schema="63" Class="CMCUProject" Path="" PathAbs="" ProjectType="0">
+<ProjectFolders/>
+<ProjectFiles>
+<FileItem>
+<MCUFile Class="CMCUFile" Path="&amp;ASCmain.asm" PathAbs="&amp;ASCC:\Users\liut1\OneDrive\Documents\National Instruments\Circuit Design Suite 12.0\MCU Workspaces\kauliukas\project1\main.asm" UseFileOptions="0" FileOptions=""/>
+</FileItem>
+</ProjectFiles>
+<BuildSettings>
+<MCUProjectBuildSettings Class="CMCUProjectBuildSettings" ToolGroupType="1" IntermediatePath="&amp;ASC.\" IntermediatePathAbs="&amp;ASCC:\Users\liut1\OneDrive\Documents\National Instruments\Circuit Design Suite 12.0\MCU Workspaces\kauliukas\project1\" OutputPath="&amp;ASC.\" OutputPathAbs="&amp;ASCC:\Users\liut1\OneDrive\Documents\National Instruments\Circuit Design Suite 12.0\MCU Workspaces\kauliukas\project1\" TargetFileType="6" SimPath="&amp;ASC.\" SimPathAbs="&amp;ASCC:\Users\liut1\OneDrive\Documents\National Instruments\Circuit Design Suite 12.0\MCU Workspaces\kauliukas\project1\" SimFile="&amp;ASCmain.hex" CodeLoadType="0">
+<Assembler>
+<MCUToolSettings Class="CMCUToolSettings" ToolType="1" IntermediatePath="&amp;ASC.\" IntermediatePathAbs="" OutputPath="&amp;ASC.\" OutputPathAbs="" TargetType="6" IncludeOptions="&amp;ASC#INCLUDE P16F84.INC" PreFilenameOptions="&amp;ASC /q /c /p16F84 " PostFilenameOptions="">
+<MCULibraries/>
+</MCUToolSettings>
+</Assembler>
+<Linker>
+<MCUToolSettings Class="CMCUToolSettings" ToolType="2" IntermediatePath="&amp;ASC.\" IntermediatePathAbs="" OutputPath="&amp;ASC.\" OutputPathAbs="" TargetType="6" IncludeOptions="" PreFilenameOptions="" PostFilenameOptions="&amp;ASC/mC:\Users\liut1\OneDrive\Documents\National Instruments\Circuit Design Suite 12.0\MCU Workspaces\kauliukas\project1\project1.map /oC:\Users\liut1\OneDrive\Documents\National Instruments\Circuit Design Suite 12.0\MCU Workspaces\kauliukas\project1\project1.out">
+<MCULibraries/>
+</MCUToolSettings>
+</Linker>
+<Library>
+<MCUToolSettings Class="CMCUToolSettings" ToolType="3" IntermediatePath="&amp;ASC.\" IntermediatePathAbs="" OutputPath="&amp;ASC.\" OutputPathAbs="" TargetType="7" IncludeOptions="" PreFilenameOptions="&amp;ASC /c &quot;C:\Users\liut1\OneDrive\Documents\National Instruments\Circuit Design Suite 12.0\MCU Workspaces\kauliukas\project1\project1.lib&quot;" PostFilenameOptions="">
+<MCULibraries/>
+</MCUToolSettings>
+</Library>
+</MCUProjectBuildSettings>
+</BuildSettings>
+</MCUProject>
